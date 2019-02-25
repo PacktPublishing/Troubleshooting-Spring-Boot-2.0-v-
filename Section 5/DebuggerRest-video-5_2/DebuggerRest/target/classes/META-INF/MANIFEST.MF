@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DebuggerRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lara
+Implementation-Vendor-Id: com.simonis.demo
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DebuggerRest
+Created-By: Maven Integration for Eclipse
+
