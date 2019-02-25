@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Log4J2Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lara
+Implementation-Vendor-Id: com.simonis.logdemo
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Log4J2Demo
+Created-By: Maven Integration for Eclipse
+
